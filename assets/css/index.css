@@ -18,12 +18,12 @@
     text-align: center; }
     .section-welcome .content-bg-welcome h1 {
       color: #ffffff;
-      font-size: 4rem;
+      font-size: 3.5rem;
       text-shadow: 0 0 10px #000000;
       font-weight: 600; }
     .section-welcome .content-bg-welcome h2 {
       color: #ffffff;
-      font-size: 2rem;
+      font-size: 1.8rem;
       text-shadow: 0 0 10px #000000;
       font-style: italic; }
     .section-welcome .content-bg-welcome .triangle {
@@ -195,7 +195,7 @@
       .section-cursos .container .content-cards .card-col .item-card .btn {
         border: 1px solid #003c78;
         border-radius: 50px;
-        padding: 1rem 2rem;
+        padding: 1rem 1.5rem;
         font-size: 1rem;
         font-weight: 600;
         font-style: italic;
